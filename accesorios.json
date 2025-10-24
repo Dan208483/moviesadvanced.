@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Billetera Grande Tech",
+    "precio": "s/ 20.00",
+    "precioAnterior": "s/ 54.90",
+    "reseñas": "3 reseñas",
+    "estrellas": 4,
+    "imagen": "img/billetera1.jpg"
+  },
+  {
+    "nombre": "Billetera Grande Vision",
+    "precio": "s/ 59.00",
+    "reseñas": "2 reseñas",
+    "estrellas": 5,
+    "imagen": "img/billetera2.jpg"
+  },
+  {
+    "nombre": "Billetera Grande Simbol",
+    "precio": "s/ 59.90",
+    "reseñas": "3 reseñas",
+    "estrellas": 4,
+    "imagen": "img/billetera3.jpg"
+  },
+  {
+    "nombre": "Billetera Mediano Catt",
+    "precio": "s/ 22.45",
+    "precioAnterior": "s/ 49.90",
+    "reseñas": "5 reseñas",
+    "estrellas": 5,
+    "imagen": "img/billetera4.jpg"
+  }
+]
